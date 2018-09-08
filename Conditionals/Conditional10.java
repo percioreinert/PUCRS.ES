@@ -1,0 +1,2 @@
+public class Conditional10 {
+}
