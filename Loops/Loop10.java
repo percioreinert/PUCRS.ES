@@ -7,7 +7,6 @@ public class Loop10 {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
 
-
         // Limpeza de tela
         System.out.print("\f");
 
