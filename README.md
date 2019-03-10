@@ -1,3 +1,3 @@
 # PUCRS.ES
 
-Repository for the Fundamentals of Programming classes in my University, PUCRS.
+Repository for the Programming Fundamentals classes in my University, PUCRS.
